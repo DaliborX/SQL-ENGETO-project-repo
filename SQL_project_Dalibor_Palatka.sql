@@ -1,3 +1,4 @@
+-- uživatelské jméno na Discordu: daldaboi.
 -- first table --
 /*
  Pro vytvoření první tabulky pro svůj projekt jsem využil tabulku czechia_price, ke které jsem pomocí JOIN připojil i tabulky czechia_region a czechia_price_category.
