@@ -13,3 +13,11 @@ Zde jsem využil spojení tabulky samy na sebe, abych v ní mohl zobrazit jednot
 Následně jsem podělil sloupec s cenami z roku 2015 s druhým sloupcem.
 Tím jsem vytvořil sloupec percentage_change, který zobrazuje percentuální  nárůst cen jednotlivých potravin mezi lety 2007 a 2015.
 Odpověď: Nejpomaleji z potravin mezi lety 2007 a 2015 zdražují Banány, jejichž cena za toto období vzrostla pouze o 3,44%.
+
+Otázka č. 4: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+Využil jsem opět funkci LAG k získání sloupce s cenami a mzdami předchozích roků k těm aktuálním.
+Stejně jako u otázky č. 3 jsem tyto sloupce podělil a vytvořil další sloupec s procentuální změnou.
+Dále jsem od procentuálních změn cen potravin v jednotlivých letech odečetl procentuální rozdíl mezd pro stejný rok.
+Tím jsem vytvořil poslední sloupec difference, který tento rozdíl zobrazuje.
+Odpověď: Ve sledovaném období mezi roky 2007 a 2015 neexistuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (tedy větší než 10%).
+K 10% se však nejvíce blíží rozdíl v roce 2009, který je 9,58%.
