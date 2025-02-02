@@ -21,3 +21,6 @@ Dále jsem od procentuálních změn cen potravin v jednotlivých letech odečet
 Tím jsem vytvořil poslední sloupec difference, který tento rozdíl zobrazuje.
 Odpověď: Ve sledovaném období mezi roky 2007 a 2015 neexistuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (tedy větší než 10%).
 K 10% se však nejvíce blíží rozdíl v roce 2009, který je 9,58%.
+
+Otázka č. 5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
+Z dostupných dat ve sledovaném období mezi lety 2007 - 2015 nevyplývá, že má výška HDP velký vliv na výši mezd a cen potravin.
